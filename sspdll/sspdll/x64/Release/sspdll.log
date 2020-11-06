@@ -1,0 +1,12 @@
+﻿  AddSecurityPackage_RawRPC.cpp
+D:\codes\sspdll\sspdll\AddSecurityPackage_RawRPC.cpp(26,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\codes\sspdll\sspdll\AddSecurityPackage_RawRPC.cpp(26,10): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\codes\sspdll\sspdll\AddSecurityPackage_RawRPC.cpp(26,10): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\codes\sspdll\sspdll\AddSecurityPackage_RawRPC.cpp(37,42): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+D:\codes\sspdll\sspdll\AddSecurityPackage_RawRPC.cpp(38,55): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+  sspi_c.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  sspdll.vcxproj -> D:\codes\sspdll\sspdll\x64\Release\sspdll.exe

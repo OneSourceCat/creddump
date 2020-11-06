@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+D:\codes\sspdumper\dllmain.cpp(23,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\codes\sspdumper\dllmain.cpp(25,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\codes\sspdumper\dllmain.cpp(50,25): warning C4101: “hr”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  sspdumper.vcxproj -> D:\codes\sspdumper\x64\Release\sspdumper.dll
